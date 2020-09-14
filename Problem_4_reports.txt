@@ -1,0 +1,64 @@
+Problem 4 reports
+
+
+
+Report 1: full, joined, content of the two database tables (including a header line)
+
+[{'Locus': 'AT1G01040', 'gene': 'DCL1', 'prot_length': 332.0, 'germplasm.Locus': 'AT1G01040', 'germplasm': 'CS3828', 'phenotype': 'Increased abundance of miRNA precursors.', 'pubmed_id': '17369351'}, {'Locus': 'AT1G01060', 'gene': 'LHY', 'prot_length': 290.0, 'germplasm.Locus': 'AT1G01060', 'germplasm': 'lhy-101', 'phenotype': 'The mutant plants are hypersensitive to both FRc and Rc light treatments in hypocotyl elongation and exhibits a small reciprocal enlargement in cotyledon area, albeit not statistically significant.', 'pubmed_id': '16891401'}, {'Locus': 'AT1G01140', 'gene': 'CIPK9', 'prot_length': 223.0, 'germplasm.Locus': 'AT1G01140', 'germplasm': 'SALK_058629', 'phenotype': 'hypersensitive to low potassium media', 'pubmed_id': '17486125'}, {'Locus': 'AT1G01220', 'gene': 'FKGP', 'prot_length': 190.0, 'germplasm.Locus': 'AT1G01220', 'germplasm': 'SALK_012400C', 'phenotype': 'fkgp-1 mutants have about 40 times more L-fucose than wild type Arabidopsis plants, but the levels of other monosaccharides do not appear to differ significantly in the mutants. No obvious phenotypic abnormalities were observed in the fkgp-1 mutants, nor were any differences in the sugar composition of cell wall polysaccharides detected.', 'pubmed_id': '18199744'}, {'Locus': 'AT2G03720', 'gene': 'MRH6', 'prot_length': 189.0, 'germplasm.Locus': 'AT2G03720', 'germplasm': 'SALK_042433', 'phenotype': 'Multiple straight hairs', 'pubmed_id': '16367956'}, {'Locus': 'AT2G03800', 'gene': 'GEK1', 'prot_length': 196.0, 'germplasm.Locus': 'AT2G03800', 'germplasm': 'gek1-1', 'phenotype': 'Ethanol hypersensitivity.', 'pubmed_id': '15215505'}, {'Locus': 'AT2G04240', 'gene': 'XERICO', 'prot_length': 256.0, 'germplasm.Locus': 'AT2G04240', 'germplasm': 'xerico', 'phenotype': 'Resistant to exogenous ABA. Seeds contained lower amounts of endogenous ABA than wildtype.', 'pubmed_id': '17933900'}, {'Locus': 'AT2G05210', 'gene': 'POT1A', 'prot_length': 221.0, 'germplasm.Locus': 'AT2G05210', 'germplasm': 'pot1-1', 'phenotype': 'No visible phenotype.', 'pubmed_id': '17627276'}, {'Locus': 'AT3G02130', 'gene': 'RPK2', 'prot_length': 284.0, 'germplasm.Locus': 'AT3G02130', 'germplasm': 'rpk2-2', 'phenotype': 'The homozygous progeny is indistinguishable from wild-type plants during vegetative growth but showed several morphological alterations after bolting. These plants displayed enhanced inflorescence branching and formed three times as many siliques and flowers as did wild-type plants.', 'pubmed_id': '17419837'}, {'Locus': 'AT3G02140', 'gene': 'TMAC2', 'prot_length': 300.0, 'germplasm.Locus': 'AT3G02140', 'germplasm': 'afp4-1', 'phenotype': 'Decreased germination on high concentrations of glucose and sorbitol.', 'pubmed_id': '18484180'}, {'Locus': 'AT3G02230', 'gene': 'RGP1', 'prot_length': 301.0, 'germplasm.Locus': 'AT3G02230', 'germplasm': 'rgp1-1', 'phenotype': 'rgp1-1 mutants have significantly lower levels of UDP-L-arabinose mutase activity compared to wild-type plants and significantly lower levels of arabinose in their cell walls.', 'pubmed_id': '21478444'}, {'Locus': 'AT3G02260', 'gene': 'BIG', 'prot_length': 279.0, 'germplasm.Locus': 'AT3G02260', 'germplasm': 'tir3-1 RGLG1:rglg1 rglg2', 'phenotype': 'The triple homozygous progeny has low viability, accumulated anthocyanin, and all plants died before shoot emergence.', 'pubmed_id': '17586653'}, {'Locus': 'AT3G02310', 'gene': 'SEP2', 'prot_length': 175.0, 'germplasm.Locus': 'AT3G02310', 'germplasm': 'sep2-1', 'phenotype': 'Non-described subtle phenotype.', 'pubmed_id': '10821278'}, {'Locus': 'AT3G02680', 'gene': 'NBS1', 'prot_length': 190.0, 'germplasm.Locus': 'AT3G02680', 'germplasm': 'atnbs1-1', 'phenotype': 'Significantly smaller when grown in the presence of methyl methanosulfonate (MMS) with root growth.  Normal growth under standard growth conditions.', 'pubmed_id': '17672843'}, {'Locus': 'AT3G02850', 'gene': 'SKOR', 'prot_length': 234.0, 'germplasm.Locus': 'AT3G02850', 'germplasm': 'CS3816', 'phenotype': 'The skor-1 mutant is sensitive to toxic cations in addition to K+ depletion.', 'pubmed_id': '17568770'}, {'Locus': 'AT3G02870', 'gene': 'VTC4', 'prot_length': 311.0, 'germplasm.Locus': 'AT3G02870', 'germplasm': 'vtc4-1', 'phenotype': 'ascorbate deficient', 'pubmed_id': '16595667'}, {'Locus': 'AT3G03260', 'gene': 'HDG8', 'prot_length': 194.0, 'germplasm.Locus': 'AT3G03260', 'germplasm': 'hdg8-1', 'phenotype': 'No visible phenotype.', 'pubmed_id': '16778018'}, {'Locus': 'AT4G14790', 'gene': 'SUV3', 'prot_length': 312.0, 'germplasm.Locus': 'AT4G14790', 'germplasm': 'pdd17', 'phenotype': 'Defective pollen development.', 'pubmed_id': '19237690'}, {'Locus': 'AT4G15210', 'gene': 'BAM5', 'prot_length': 313.0, 'germplasm.Locus': 'AT4G15210', 'germplasm': 'bmy1-2', 'phenotype': 'Plants cold-shocked for 6h have an increased starch content compared to wildtype.', 'pubmed_id': '16297066'}, {'Locus': 'AT4G15560', 'gene': 'DXS', 'prot_length': 219.0, 'germplasm.Locus': 'AT4G15560', 'germplasm': 'cla1-1', 'phenotype': 'Mutant seeds grown on medium supplemented with non-phosphorylated synthetic 1-deoxy-D-xylulose (DX) develop green leaves.', 'pubmed_id': '10982425'}, {'Locus': 'AT4G15570', 'gene': 'MAA3', 'prot_length': 294.0, 'germplasm.Locus': 'AT4G15570', 'germplasm': 'maa3', 'phenotype': 'Homozygotes are not recovered. Female gametophyte development is delayed and asynchronous. During fertilization, fusion of polar nuclei does not occur. Polar nuclei nucloeli are smaller than WT.', 'pubmed_id': '18772186'}, {'Locus': 'AT4G15802', 'gene': 'HSBP', 'prot_length': 254.0, 'germplasm.Locus': 'AT4G15802', 'germplasm': 'Athspb-2', 'phenotype': 'Early flowering, reduced fertility, aborted seeds.', 'pubmed_id': '20388662'}, {'Locus': 'AT4G15880', 'gene': 'ESD4', 'prot_length': 265.0, 'germplasm.Locus': 'AT4G15880', 'germplasm': 'esd4-2', 'phenotype': 'Decreased mRNA levels of the floral repressors FLC and MAF4 and increased mRNA levels of the floral activators FT and SOC1.', 'pubmed_id': '17513499'}, {'Locus': 'AT4G16420', 'gene': 'ADA2B', 'prot_length': 279.0, 'germplasm.Locus': 'AT4G16420', 'germplasm': 'prz1-1', 'phenotype': 'Altered response to auxin and cytokinin', 'pubmed_id': '12747832'}, {'Locus': 'AT4G16480', 'gene': 'INT4', 'prot_length': 284.0, 'germplasm.Locus': 'AT4G16480', 'germplasm': 'atint4-2', 'phenotype': 'No visible phenotype.', 'pubmed_id': '16603666'}, {'Locus': 'AT5G10480', 'gene': 'PAS2', 'prot_length': 301.0, 'germplasm.Locus': 'AT5G10480', 'germplasm': 'pas2-3', 'phenotype': 'Segregates 25% embryo lethal.', 'pubmed_id': '18799749'}, {'Locus': 'AT5G10510', 'gene': 'AIL6', 'prot_length': 310.0, 'germplasm.Locus': 'AT5G10510', 'germplasm': 'plt3-1', 'phenotype': 'Short roots and shortened root meristem.', 'pubmed_id': '17960244'}, {'Locus': 'AT5G11110', 'gene': 'SPS2', 'prot_length': 232.0, 'germplasm.Locus': 'AT5G11110', 'germplasm': 'kns2', 'phenotype': 'Defects are specific to pollen exine structure. Smaller mesh size in the exine structure. Increased number of baculae. Fully fertile.', 'pubmed_id': '18779216'}, {'Locus': 'AT5G11260', 'gene': 'HY5', 'prot_length': 221.0, 'germplasm.Locus': 'AT5G11260', 'germplasm': 'hy5-101', 'phenotype': 'Under FRc conditions, the length mutant hypocotyls is increased compared to that of wild-type plants.  Under Rc conditions, the hypocotyl length is also increased and the cotyledon area is smaller.', 'pubmed_id': '16891401'}, {'Locus': 'AT5G11510', 'gene': 'MYB3R-4', 'prot_length': 336.0, 'germplasm.Locus': 'AT5G11510', 'germplasm': 'myb3r4-1', 'phenotype': 'No visible phenotype.', 'pubmed_id': '17287251'}, {'Locus': 'AT5G12200', 'gene': 'PYD2', 'prot_length': 310.0, 'germplasm.Locus': 'AT5G12200', 'germplasm': 'pyd2-2', 'phenotype': 'The pyd2-2 mutant has a wild-type appearance under normal growth conditions. Pyrimidine nucleotide and uridine levels are not changed in the mutant, but uracil levels are increased. These mutants cannot grow normally when uracil is provided as a sole nitrogen source.', 'pubmed_id': '19413687'}, {'Locus': 'AT5G13290', 'gene': 'CRN', 'prot_length': 189.0, 'germplasm.Locus': 'AT5G13290', 'germplasm': 'crn-1', 'phenotype': 'Increased meristem size. Vegetative meristems are are 30% larger than wild type. After bolting inflorescence meristems are enlarged and occasionally fasciated. Flowers occasionally produce extra organs in the first 3.', 'pubmed_id': '12345678'}]
+
+
+Report 2: report that only includes the Genes SKOR and MAA3
+
+[{'Locus': 'AT3G02850', 'gene': 'SKOR', 'prot_length': 234.0, 'germplasm.Locus': 'AT3G02850', 'germplasm': 'CS3816', 'phenotype': 'The skor-1 mutant is sensitive to toxic cations in addition to K+ depletion.', 'pubmed_id': '17568770'}, {'Locus': 'AT4G15570', 'gene': 'MAA3', 'prot_length': 294.0, 'germplasm.Locus': 'AT4G15570', 'germplasm': 'maa3', 'phenotype': 'Homozygotes are not recovered. Female gametophyte development is delayed and asynchronous. During fertilization, fusion of polar nuclei does not occur. Polar nuclei nucloeli are smaller than WT.', 'pubmed_id': '18772186'}]
+
+
+Report 3: number of entries for chromosome 1
+
+[{'COUNT(Locus)': 4}]
+
+
+Report 3: number of entries for chromosome 2
+
+[{'COUNT(Locus)': 4}]
+
+
+Report 3: number of entries for chromosome 3
+
+[{'COUNT(Locus)': 9}]
+
+
+Report 3: number of entries for chromosome 4
+
+[{'COUNT(Locus)': 8}]
+
+
+Report 3: number of entries for chromosome 5
+
+[{'COUNT(Locus)': 7}]
+
+
+Report 4: average protein length for the genes on chromosome 1
+
+[{'AVG(prot_length)': 258.75}]
+
+
+Report 4: average protein length for the genes on chromosome 2
+
+[{'AVG(prot_length)': 215.5}]
+
+
+Report 4: average protein length for the genes on chromosome 3
+
+[{'AVG(prot_length)': 252.0}]
+
+
+Report 4: average protein length for the genes on chromosome 4
+
+[{'AVG(prot_length)': 277.5}]
+
+
+Report 4: average protein length for the genes on chromosome 5
+
+[{'AVG(prot_length)': 271.2857142857143}]
+
+
